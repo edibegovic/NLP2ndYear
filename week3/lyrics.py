@@ -59,10 +59,6 @@ def aggregate_counts_for_label(bags_of_words, y, label):
     indecis = np.argwhere(y == label)
     return aggregate_counts(np.take(bags_of_words, indecis))
 
-# Tiny test
-y_tiny_train, x_tiny_train = read_data('data/tinysentiment_train.csv', label = "Label", text = "Text")
-y_tiny_dev, x_tiny_dev = read_data('data/tinysentiment_test.csv', label = "Label", text = "Text")
-
 
 #############################################
 #############  TO BE IGNORED  ###############
@@ -150,9 +146,26 @@ class NaiveBayes(LinearClassifier):
         self.feat2idx = {f: i+1 for i,f in enumerate(features_train)}  # keep 0 reserved for prior 
         self.lab2idx = {l: i for i,l in enumerate(np.unique(y_train))}
 
+        likelihoods = np.zeros((vocab_size+1, num_classes))
 
-        # your code here
-        
-        
-        #return parameters
-        raise NotImplementedError
+        # Priors
+        for lab in set(y_train):
+            docs_in_lab = len(np.argwhere(y_train == lab))
+            total_docs = len(y_train)
+            likelihoods[0, self.lab2idx[lab]] = np.log(docs_in_lab/total_docs)
+            agg_bow_lab = aggregate_counts_for_label(X_train, y_train, lab)
+
+            for w in features_train.keys():
+                prob = (agg_bow_lab[w] + 1)/(docs_in_lab + vocab_size)
+                likelihoods[self.feat2idx[w], self.lab2idx[lab]] = np.log(prob)
+
+        return likelihoods
+
+
+### deliverable 2.2
+nb = NaiveBayes()
+params = nb.train(x_train, y_train)
+
+predictions = nb.test(x_dev, params)
+nb.evaluate(y_dev, predictions)
+# Accuracy:  0.45
