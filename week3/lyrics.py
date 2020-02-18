@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import re
 import pandas as pd
 from pandas.core.common import flatten
+from sklearn.metrics import confusion_matrix
 import numpy as np
 
 df_train = pd.read_csv('data/metal-lyrics-train.csv')
@@ -147,7 +148,6 @@ class NaiveBayes(LinearClassifier):
         self.lab2idx = {l: i for i,l in enumerate(np.unique(y_train))}
 
         likelihoods = np.zeros((vocab_size+1, num_classes))
-
         # Priors
         for lab in set(y_train):
             docs_in_lab = len(np.argwhere(y_train == lab))
@@ -169,3 +169,19 @@ params = nb.train(x_train, y_train)
 predictions = nb.test(x_dev, params)
 nb.evaluate(y_dev, predictions)
 # Accuracy:  0.45
+
+# Confusion matrix
+confusion_matrix(y_dev, predictions)
+
+# # Tiny test
+# y_tiny_train, x_tiny_train = read_data('data/tinysentiment_train.csv', label = "Label", text = "Text")
+# y_tiny_dev, x_tiny_dev = read_data('data/tinysentiment_test.csv', label = "Label", text = "Text")
+
+# nb_tiny = NaiveBayes()
+# params_tiny = nb_tiny.train(x_tiny_train, y_tiny_train)
+
+# predictions = nb_tiny.test(x_tiny_dev, params_tiny)
+# nb_tiny.evaluate(y_tiny_dev, predictions)
+# # Accuracy:  0.45
+
+# confusion_matrix(y_tiny_dev, predictions)
