@@ -39,7 +39,7 @@ data = [('da','Nielsen'),
 labels = [label2idx[l] for l, _ in data]
 names = [x for _, x in data]
 
-char2idx = {char:idx for idx, char in enumerate(set("".join(x_train)))}
+char2idx = {char:idx for idx, char in enumerate(set("".join(names)))}
 label2idx = {"da": 0,"se": 1, "no": 2}
 
 # Vocab size
