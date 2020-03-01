@@ -1,105 +1,105 @@
-# text = Phoooonneeeeeeeeee with my wife! 
-Phoooonneeeeeeeeee VERB
-with ADP
+# text = Phoooonneeeeeeeeee with my wife!
+Phoooonneeeeeeeeee NOUN
+with IN
 my PRON
 wife NOUN
 ! PUNCT
 
-# text = @TheDjReFlex if u can't beat em join em. Lol 
-@TheDjReFlex X
-if SCONJ
+# text = @TheDjReFlex if u can't beat em join em. Lol
+@TheDjReFlex PROPN
+if IN
 u PRON
-ca AUX
-n't PART
+ca VERB
+n't ADV
 beat VERB
 em PRON
 join VERB
 em PRON
 . PUNCT
-Lol INTJ
+Lol NOUN
 
-# text = RT @alisha_bieber96: #nsnweekend how can people choose there favourite performance, the whole thing was perfect! 
+# text = RT @alisha_bieber96: #nsnweekend how can people choose there favourite performance, the whole thing was perfect!
 RT X
-@alisha_bieber96 X
+@alisha_bieber96 PROPN
 : PUNCT
 #nsnweekend X
 how ADV
-can AUX
-people PRON
+can VERB
+people NOUN
 choose VERB
-there PRON
+there ADV
 favourite ADJ
 performance NOUN
 , PUNCT
 the DET
 whole ADJ
 thing NOUN
-was AUX
+was VERB
 perfect ADJ
 ! PUNCT
 
-# text = Whooaaaa bro these CELTICS are god dammmm babies!!! MAN UP 
+# text = Whooaaaa bro these CELTICS are god dammmm babies!!! MAN UP
 Whooaaaa INTJ
 bro NOUN
 these DET
 CELTICS PROPN
 are VERB
-god ADJ
+god VERB
 dammmm ADJ
 babies NOUN
 !!! PUNCT
-MAN VERB
-UP ADP
+MAN NOUN
+UP IN
 
-# text = @ThreeeStacks @lildick_e Woooooooow 
-@ThreeeStacks X
-@lildick_e X
+# text = @ThreeeStacks @lildick_e Woooooooow
+@ThreeeStacks PROPN
+@lildick_e PROPN
 Woooooooow INTJ
 
-# text = Noo its not cuss you have swag andd you wont look dumb! @youloveants !! 
-Noo INTJ
+# text = Noo its not cuss you have swag andd you wont look dumb! @youloveants !!
+Noo DET
 it PRON
-s AUX
-not PART
-cuss ADP
+s VERB
+not ADV
+cuss IN
 you PRON
 have VERB
 swag NOUN
 andd CCONJ
 you PRON
-wo AUX
-nt PART
+wo VERB
+nt ADV
 look VERB
 dumb ADJ
 ! PUNCT
-@youloveants X
+@youloveants PROPN
 !! PUNCT
 
-# text = Had Fun, Now I'm Omw To My Gma House For Her Birthday 
+# text = Had Fun, Now I'm Omw To My Gma House For Her Birthday
 Had VERB
-Fun ADJ
+Fun NOUN
 , PUNCT
 Now ADV
 I PRON
-'m AUX
-Omw VERB
-To ADP
+'m VERB
+Omw X
+To IN
 My PRON
 Gma NOUN
 House NOUN
-For ADP
+For IN
 Her PRON
 Birthday NOUN
 
-# text = @TFP_103 @losoo5150 nigga u quit to 
-@TFP_103 X
-@losoo5150 X
+# text = @TFP_103 @losoo5150 nigga u quit to
+@TFP_103 PROPN
+@losoo5150 PROPN
 nigga NOUN
-u PRON
+u IN
 quit VERB
 to ADV
 
-# text = Oo yeaa ii hear thunda ! Rainnn kum onnnnnn 
+# text = Oo yeaa ii hear thunda ! Rainnn kum onnnnnn
 Oo INTJ
 yeaa INTJ
 ii PRON
@@ -108,41 +108,41 @@ thunda NOUN
 ! PUNCT
 Rainnn NOUN
 kum VERB
-onnnnnn ADV
+onnnnnn IN
 
-# text = I think I do +_O "you're  sick"RT @Mannando: Lmao u don even know what that means RT @M_teeDaQuEEn: Lol nawe lol RT 
+# text = I think I do +_O "you're  sick"RT @Mannando: Lmao u don even know what that means RT @M_teeDaQuEEn: Lol nawe lol RT
 I PRON
 think VERB
 I PRON
-do AUX
+do VERB
 +_O X
 " PUNCT
 you PRON
-'re AUX
+'re VERB
 sick ADJ
 " PUNCT
 RT X
-@Mannando X
+@Mannando PROPN
 : PUNCT
 Lmao INTJ
 u PRON
-don AUX
+don VERB
 even ADV
 know VERB
 what PRON
 that DET
 means VERB
 RT X
-@M_teeDaQuEEn X
+@M_teeDaQuEEn PROPN
 : PUNCT
 Lol INTJ
-nawe INTJ
+nawe X
 lol INTJ
 RT X
 
-# text = ; idk why ... but ifeel like talkin dirty O_o 
+# text = ; idk why ... but ifeel like talkin dirty O_o
 ; PUNCT
-idk VERB
+idk X
 why ADV
 ... PUNCT
 but CCONJ
@@ -153,65 +153,65 @@ talkin VERB
 dirty ADV
 O_o SYM
 
-# text = I think jawn was tryna be smart talk'n bout da baul little do she know I dnt give two shits about none of these Cheyney boy's. 
+# text = I think jawn was tryna be smart talk'n bout da baul little do she know I dnt give two shits about none of these Cheyney boy's.
 I PRON
 think VERB
-jawn PROPN
-was AUX
+jawn NOUN
+was VERB
 try VERB
-na PART
-be AUX
+na VERB
+be VERB
 smart ADJ
 talk'n VERB
 bout ADP
 da DET
 baul NOUN
 little ADJ
-do AUX
+do VERB
 she PRON
 know VERB
 I PRON
-d AUX
+d  PART
 nt PART
 give VERB
 two NUM
 shits NOUN
 about ADP
-none PART
+none NOUN
 of ADP
 these DET
 Cheyney PROPN
-boy's PRON
+boy's NOUN
 . PUNCT
 
-# text = A woman dat wants me fa me....dats all I ask for. 
+# text = A woman dat wants me fa me....dats all I ask for.
 A DET
 woman NOUN
-dat PRON
-wants AUX
+dat SCONJ
+wants VERB
 me PRON
 fa ADP
 me PRON
 .... PUNCT
-dat PRON
-s AUX
-all DET
+dat NOUN
+s VERB
+all ADV
 I PRON
 ask VERB
 for ADP
 . PUNCT
 
-# text = @SabrinagLeek haha u wish! Just wait for me to fins a cool name tht has darren + loewe in it lol (everything sounds bad :( ) 
-@SabrinagLeek X
+# text = @SabrinagLeek haha u wish! Just wait for me to fins a cool name tht has darren + loewe in it lol (everything sounds bad :( )
+@SabrinagLeek PROPN
 haha INTJ
 u PRON
 wish VERB
 ! PUNCT
 Just ADV
 wait VERB
-for SCONJ
+for ADP
 me PRON
-to PART
+to ADP
 fins VERB
 a DET
 cool ADJ
@@ -223,17 +223,17 @@ darren PROPN
 loewe PROPN
 in ADP
 it PRON
-lol INTJ
+lol X
 ( PUNCT
-everything PRON
+everything NOUN
 sounds VERB
 bad ADV
-:( PUNCT
+:( SYM
 ) PUNCT
 
-# text = @malamucha22 @MsLockallhearts they had their fun, we hd ours! ;) lmaooo 
-@malamucha22 X
-@MsLockallhearts X
+# text = @malamucha22 @MsLockallhearts they had their fun, we hd ours! ;) lmaooo
+@malamucha22 PROPN
+@MsLockallhearts PROPN
 they PRON
 had VERB
 their PRON
@@ -244,33 +244,33 @@ hd VERB
 ours PRON
 ! PUNCT
 ;) SYM
-lmaooo INTJ
+lmaooo X
 
-# text = @CoverGurlFayyy i did tooo ! this is getting goood. lol 
+# text = @CoverGurlFayyy i did tooo ! this is getting goood. lol
 @CoverGurlFayyy X
 i PRON
 did VERB
 tooo ADV
 ! PUNCT
-this PRON
-is AUX
+this ADV
+is VERB
 getting VERB
-goood ADV
+goood ADJ
 . PUNCT
-lol INTJ
+lol X
 
-# text = @modTINGsingh can we go to tims please and tonkkss 
+# text = @modTINGsingh can we go to tims please and tonkkss
 @modTINGsingh X
-can AUX
+can VERB
 we PRON
 go VERB
-to ADP
+to PART
 tims PROPN
-please INTJ
+please VERB
 and CCONJ
-tonkkss INTJ
+tonkkss PROPN
 
-# text = @walkerhell I know but passing uni so I can go to America next year and stalk out Corey, that's a plan. 
+# text = @walkerhell I know but passing uni so I can go to America next year and stalk out Corey, that's a plan.
 @walkerhell X
 I PRON
 know VERB
@@ -279,10 +279,10 @@ passing VERB
 uni NOUN
 so ADV
 I PRON
-can AUX
+can VERB
 go VERB
-to ADP
-America PROPN
+to PART
+America NOUN
 next ADJ
 year NOUN
 and CCONJ
@@ -290,33 +290,33 @@ stalk VERB
 out ADP
 Corey PROPN
 , PUNCT
-that PRON
+that SCONJ
 's AUX
 a DET
 plan NOUN
 . PUNCT
 
-# text = @CareenaCoolAss u not callin me 
+# text = @CareenaCoolAss u not callin me
 @CareenaCoolAss X
 u PRON
-not PART
+not ADV
 callin VERB
 me PRON
 
-# text = I wonder when Nic Cage is going to film "Another Something Something Las Vegas". 
+# text = I wonder when Nic Cage is going to film "Another Something Something Las Vegas".
 I PRON
 wonder VERB
-when ADP
+when ADV
 Nic PROPN
 Cage PROPN
-is AUX
+is VERB
 going VERB
 to PART
-film VERB
+film NOUN
 " PUNCT
 Another DET
-Something DET
-Something DET
+Something PRON
+Something PRON
 Las PROPN
 Vegas PROPN
 " PUNCT

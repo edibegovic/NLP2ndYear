@@ -1,0 +1,324 @@
+# text = Phoooonneeeeeeeeee with my wife! 
+Phoooonneeeeeeeeee VERB
+with ADP
+my PRON
+wife NOUN
+! PUNCT
+
+# text = @TheDjReFlex if u can't beat em join em. Lol 
+@TheDjReFlex X
+if SCONJ
+u PRON
+ca AUX
+n't PART
+beat VERB
+em PRON
+join VERB
+em PRON
+. PUNCT
+Lol INTJ
+
+# text = RT @alisha_bieber96: #nsnweekend how can people choose there favourite performance, the whole thing was perfect! 
+RT X
+@alisha_bieber96 X
+: PUNCT
+#nsnweekend X
+how ADV
+can AUX
+people PRON
+choose VERB
+there PRON
+favourite ADJ
+performance NOUN
+, PUNCT
+the DET
+whole ADJ
+thing NOUN
+was AUX
+perfect ADJ
+! PUNCT
+
+# text = Whooaaaa bro these CELTICS are god dammmm babies!!! MAN UP 
+Whooaaaa INTJ
+bro NOUN
+these DET
+CELTICS PROPN
+are VERB
+god ADJ
+dammmm ADJ
+babies NOUN
+!!! PUNCT
+MAN VERB
+UP ADP
+
+# text = @ThreeeStacks @lildick_e Woooooooow 
+@ThreeeStacks X
+@lildick_e X
+Woooooooow INTJ
+
+# text = Noo its not cuss you have swag andd you wont look dumb! @youloveants !! 
+Noo INTJ
+it PRON
+s AUX
+not PART
+cuss ADP
+you PRON
+have VERB
+swag NOUN
+andd CCONJ
+you PRON
+wo AUX
+nt PART
+look VERB
+dumb ADJ
+! PUNCT
+@youloveants X
+!! PUNCT
+
+# text = Had Fun, Now I'm Omw To My Gma House For Her Birthday 
+Had VERB
+Fun ADJ
+, PUNCT
+Now ADV
+I PRON
+'m AUX
+Omw VERB
+To ADP
+My PRON
+Gma NOUN
+House NOUN
+For ADP
+Her PRON
+Birthday NOUN
+
+# text = @TFP_103 @losoo5150 nigga u quit to 
+@TFP_103 X
+@losoo5150 X
+nigga NOUN
+u PRON
+quit VERB
+to ADV
+
+# text = Oo yeaa ii hear thunda ! Rainnn kum onnnnnn 
+Oo INTJ
+yeaa INTJ
+ii PRON
+hear VERB
+thunda NOUN
+! PUNCT
+Rainnn NOUN
+kum VERB
+onnnnnn ADV
+
+# text = I think I do +_O "you're  sick"RT @Mannando: Lmao u don even know what that means RT @M_teeDaQuEEn: Lol nawe lol RT 
+I PRON
+think VERB
+I PRON
+do AUX
++_O X
+" PUNCT
+you PRON
+'re AUX
+sick ADJ
+" PUNCT
+RT X
+@Mannando X
+: PUNCT
+Lmao INTJ
+u PRON
+don AUX
+even ADV
+know VERB
+what PRON
+that DET
+means VERB
+RT X
+@M_teeDaQuEEn X
+: PUNCT
+Lol INTJ
+nawe INTJ
+lol INTJ
+RT X
+
+# text = ; idk why ... but ifeel like talkin dirty O_o 
+; PUNCT
+idk VERB
+why ADV
+... PUNCT
+but CCONJ
+i PRON
+feel VERB
+like ADP
+talkin VERB
+dirty ADV
+O_o SYM
+
+# text = I think jawn was tryna be smart talk'n bout da baul little do she know I dnt give two shits about none of these Cheyney boy's. 
+I PRON
+think VERB
+jawn PROPN
+was AUX
+try VERB
+na PART
+be AUX
+smart ADJ
+talk'n VERB
+bout ADP
+da DET
+baul NOUN
+little ADJ
+do AUX
+she PRON
+know VERB
+I PRON
+d AUX
+nt PART
+give VERB
+two NUM
+shits NOUN
+about ADP
+none PART
+of ADP
+these DET
+Cheyney PROPN
+boy's PRON
+. PUNCT
+
+# text = A woman dat wants me fa me....dats all I ask for. 
+A DET
+woman NOUN
+dat PRON
+wants AUX
+me PRON
+fa ADP
+me PRON
+.... PUNCT
+dat PRON
+s AUX
+all DET
+I PRON
+ask VERB
+for ADP
+. PUNCT
+
+# text = @SabrinagLeek haha u wish! Just wait for me to fins a cool name tht has darren + loewe in it lol (everything sounds bad :( ) 
+@SabrinagLeek X
+haha INTJ
+u PRON
+wish VERB
+! PUNCT
+Just ADV
+wait VERB
+for SCONJ
+me PRON
+to PART
+fins VERB
+a DET
+cool ADJ
+name NOUN
+tht PRON
+has VERB
+darren PROPN
++ PUNCT
+loewe PROPN
+in ADP
+it PRON
+lol INTJ
+( PUNCT
+everything PRON
+sounds VERB
+bad ADV
+:( PUNCT
+) PUNCT
+
+# text = @malamucha22 @MsLockallhearts they had their fun, we hd ours! ;) lmaooo 
+@malamucha22 X
+@MsLockallhearts X
+they PRON
+had VERB
+their PRON
+fun NOUN
+, PUNCT
+we PRON
+hd VERB
+ours PRON
+! PUNCT
+;) SYM
+lmaooo INTJ
+
+# text = @CoverGurlFayyy i did tooo ! this is getting goood. lol 
+@CoverGurlFayyy X
+i PRON
+did VERB
+tooo ADV
+! PUNCT
+this PRON
+is AUX
+getting VERB
+goood ADV
+. PUNCT
+lol INTJ
+
+# text = @modTINGsingh can we go to tims please and tonkkss 
+@modTINGsingh X
+can AUX
+we PRON
+go VERB
+to ADP
+tims PROPN
+please INTJ
+and CCONJ
+tonkkss INTJ
+
+# text = @walkerhell I know but passing uni so I can go to America next year and stalk out Corey, that's a plan. 
+@walkerhell X
+I PRON
+know VERB
+but CCONJ
+passing VERB
+uni NOUN
+so ADV
+I PRON
+can AUX
+go VERB
+to ADP
+America PROPN
+next ADJ
+year NOUN
+and CCONJ
+stalk VERB
+out ADP
+Corey PROPN
+, PUNCT
+that PRON
+'s AUX
+a DET
+plan NOUN
+. PUNCT
+
+# text = @CareenaCoolAss u not callin me 
+@CareenaCoolAss X
+u PRON
+not PART
+callin VERB
+me PRON
+
+# text = I wonder when Nic Cage is going to film "Another Something Something Las Vegas". 
+I PRON
+wonder VERB
+when ADP
+Nic PROPN
+Cage PROPN
+is AUX
+going VERB
+to PART
+film VERB
+" PUNCT
+Another DET
+Something DET
+Something DET
+Las PROPN
+Vegas PROPN
+" PUNCT
+. PUNCT
+
